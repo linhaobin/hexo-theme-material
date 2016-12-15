@@ -101,7 +101,7 @@ dropdown:
 
 # Pages Menu
 pages:
-    #about: "/about"
+    关于我: "/about"
     
 
 
