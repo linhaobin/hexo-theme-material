@@ -115,8 +115,8 @@ pages:
 # Available value:
 #     duoshuo | disqus
 comment:
-    use: 
-    shortname: 
+    use: duoshuo
+    shortname: linhaobin
     duoshuo_thread_key: path
     duoshuo_embed_js_url: "https://static.duoshuo.com/embed.js"
 
