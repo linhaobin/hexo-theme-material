@@ -101,8 +101,9 @@ dropdown:
 
 # Pages Menu
 pages:
-    关于我: "/about"
+    标签: "/tags"
     图库: "/gallery"
+    关于我: "/about"
     
 
 
