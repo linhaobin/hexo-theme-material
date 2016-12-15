@@ -102,6 +102,7 @@ dropdown:
 # Pages Menu
 pages:
     关于我: "/about"
+    图库: "/gallery"
     
 
 
